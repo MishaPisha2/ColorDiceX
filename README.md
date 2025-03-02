@@ -47,12 +47,6 @@
 
 ---
 
-## ⚠️ Notes
-
-- You **must** press `0` to reset before rolling again.
-- Works best on simple webpages without background restrictions.
-- Refresh the page if the extension stops responding.
-
 ---
 
 ## 🚀 Future Improvements
